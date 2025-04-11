@@ -41,7 +41,7 @@ export const LINKS = [
 ];
 
 export const HERO_CONTENT = {
-  title: "VastuSpaze",
+  title: "L U X O R A",
   subtitle: "Reimagine Your Space with Expert Renovation Services",
   image: hero,
 };
@@ -122,48 +122,48 @@ export const PORTFOLIO_PROJECTS = [
 ];
 
 export const REVIEWS = {
-  text: "Hear what our clients have to say about their experiences with VastuSpaze. We take pride in our work and are committed to delivering top-notch home renovation services.",
+  text: "Hear what our clients have to say about their experiences with L U X O R A. We take pride in our work and are committed to delivering top-notch home renovation services.",
   reviews: [
     {
       name: "Alice Johnson",
       title: "Homeowner",
       review:
-        "VastuSpaze transformed our outdated kitchen into a modern masterpiece. The team was professional, attentive to our needs, and delivered beyond our expectations. We couldn't be happier with the results!",
+        "L U X O R A transformed our outdated kitchen into a modern masterpiece. The team was professional, attentive to our needs, and delivered beyond our expectations. We couldn't be happier with the results!",
       image: user1,
     },
     {
       name: "Bob Smith",
       title: "Homeowner",
       review:
-        "Our bathroom renovation was seamless, thanks to VastuSpaze. They took care of everything from design to execution, and the attention to detail was impeccable. Highly recommended!",
+        "Our bathroom renovation was seamless, thanks to L U X O R A. They took care of everything from design to execution, and the attention to detail was impeccable. Highly recommended!",
       image: user2,
     },
     {
       name: "Carla Mendes",
       title: "Homeowner",
       review:
-        "VastuSpaze helped us create the perfect outdoor living space. Their creativity and craftsmanship turned our backyard into a beautiful oasis. It's now our favorite place to relax and entertain guests.",
+        "L U X O R A helped us create the perfect outdoor living space. Their creativity and craftsmanship turned our backyard into a beautiful oasis. It's now our favorite place to relax and entertain guests.",
       image: user3,
     },
     {
       name: "David Lee",
       title: "Homeowner",
       review:
-        "The living room update exceeded our expectations. VastuSpaze's team was skilled and communicative, ensuring a smooth renovation process. The new design has brought a fresh, modern look to our home.",
+        "The living room update exceeded our expectations. L U X O R A's team was skilled and communicative, ensuring a smooth renovation process. The new design has brought a fresh, modern look to our home.",
       image: user4,
     },
     {
       name: "Ella Fernandez",
       title: "Homeowner",
       review:
-        "From start to finish, VastuSpaze was a pleasure to work with. They listened to our vision and brought it to life with expert craftsmanship. Our home office is now a stylish and functional space.",
+        "From start to finish, L U X O R A was a pleasure to work with. They listened to our vision and brought it to life with expert craftsmanship. Our home office is now a stylish and functional space.",
       image: user5,
     },
     {
       name: "Frank Wilson",
       title: "Homeowner",
       review:
-        "VastuSpaze did an amazing job on our basement conversion. They created a cozy, multi-functional space that our family loves. The team was professional and delivered on time and within budget.",
+        "L U X O R A did an amazing job on our basement conversion. They created a cozy, multi-functional space that our family loves. The team was professional and delivered on time and within budget.",
       image: user6,
     },
   ],
@@ -177,7 +177,7 @@ export const CONTACT_INFO = {
   },
   email: {
     label: "Email",
-    value: "info@vastuspaze.com",
+    value: "info@luxora.com",
   },
   address: {
     label: "Address",
