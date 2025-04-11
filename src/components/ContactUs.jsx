@@ -3,7 +3,7 @@ import { CONTACT_INFO } from "../constants"
 
 const ContactUs = () => {
     return (
-        <section className="max-w-7xl mx-auto" id="contact">
+        <section className="max-w-7xl mx-auto"  id="contact">
             <div className="my-20">
                 <h2 className="text-xl lg:text-3xl tracking-tight text-center mb-12 uppercase">Contact Us</h2>
                 <p className="max-w-2xl text-lg mb-12 text-center mx-auto">{CONTACT_INFO.text}</p>
