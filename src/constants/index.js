@@ -181,6 +181,6 @@ export const CONTACT_INFO = {
   },
   address: {
     label: "Address",
-    value: "1234 Renovation Ave, Suite 100, Your City, ST 56789",
+    value: "1234 Luxora Residence, Suite 100, Your City, ST 56789",
   },
 };
